@@ -12,7 +12,7 @@
 
 ```
 
-![image](https://github.com/KeenTeam1990/TTNews/blob/master/introductionimages/2055.gif)
+![image](https://github.com/KeenTeam1990/zhanqiTV/blob/master/introductionimages/2055.gif)
 
 战旗 TV app （可以播放视频），可以学习到其中视图的布局处理技巧。模仿 战旗tv 持续更新 更新 游戏列表
 上拉刷新 下啦加载 以及游戏列表的详情播放
