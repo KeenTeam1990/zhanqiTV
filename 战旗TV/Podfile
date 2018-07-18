@@ -1,0 +1,14 @@
+platform :ios, '7.0'
+
+target '战旗TV' do
+  pod 'AFNetworking'
+  pod 'FMDB'
+  pod 'IQKeyboardManager'
+  pod 'JSONModel'
+  pod 'libextobjc'
+  pod 'MCUIColorUtils'
+  pod 'NSDictionary+Accessors'
+  pod 'UIActionSheet+Blocks'
+  pod 'UIAlertView+Block'
+end
+
